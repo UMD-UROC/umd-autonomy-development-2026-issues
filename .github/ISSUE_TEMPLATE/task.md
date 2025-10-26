@@ -1,10 +1,9 @@
 ---
 name: Task
-about: Describe this issue template's purpose here.
+about: A unit of work
 title: ''
 labels: ''
 assignees: ''
+type: Task
 
 ---
-
-
